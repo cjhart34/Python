@@ -1,0 +1,3 @@
+# Data Analysis and Visualization in Django
+
+I began this Exercise by learning how to allow my application’s users to look at the different data stored in the application and search for specific data. For this, I created forms that allow a user to send input to the application, and equip the application to respond on the basis of the user input. Then I used QuerySet API to extract data from the database to be shown to users when they make a specific search. Finally, I used Python’s matplotlib library for data visualization.
